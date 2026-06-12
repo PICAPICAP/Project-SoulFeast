@@ -27,15 +27,20 @@ Project Name: Project-SoulFeast (Soul Feast: Big Data Cultivation Simulator and 
 ## 📊 2. 全局永久解鎖與版本演進架構 / Global Permanent Unlocks & Version Evolution## README.md Section 2
 
 ## 📊 System Evolution: Global Permanent UnlocksThe backend infrastructure scales permanently based on the historical cumulative metrics of processed "Souls" (Tenants). As the database expands, the orchestration model evolves from manual micro-management to macro-industrialized extraction.
-### 🔓 Tenant Metrics & Global Tech Tree* **1 Total Tenant: "The Manual Sandbox"**
+### 🔓 Tenant Metrics & Global Tech Tree
+* **1 Total Tenant: "The Manual Sandbox"**
   * **Core Architecture:** Standard Contract Ingestion (Underworld Labor Agreement), Illusionary FX Panel Interface, Storage v1.0 (Basic Spatial Micro-shards).
-  * **Systemic Limitation:** The Host operates in an artificial customer service loop. Inventory slots are severely restricted, forcing the Host to complete high-risk tasks just to unlock a single storage coordinate.* **10 Total Tenants: "Automated Micro-Nodes"**
+  * **Systemic Limitation:** The Host operates in an artificial customer service loop. Inventory slots are severely restricted, forcing the Host to complete high-risk tasks just to unlock a single storage coordinate.
+  * * **10 Total Tenants: "Automated Micro-Nodes"**
   * **Core Architecture:** Black-Market Broker Agent, Automated Ingress "Cutscene" Interceptor, Hardcoded Dialogue Templates.
-  * **Systemic Limitation:** Eliminates manual session hosting. When a Host approaches a designated broker agent, the agent enters an un-interruptible RPC loop, rendering the Host unable to leave the sub-space without signing the Non-Negotiable Contract.* **100 Total Tenants: "Corporate Syndicate"**
+  * **Systemic Limitation:** Eliminates manual session hosting. When a Host approaches a designated broker agent, the agent enters an un-interruptible RPC loop, rendering the Host unable to leave the sub-space without signing the Non-Negotiable Contract.
+  * * **100 Total Tenants: "Corporate Syndicate"**
   * **Core Architecture:** OEM White-Label Framework (Sub- 잔여 Soul Transmission), Non-Linear Resource Depreciation Curve.
-  * **Systemic Limitation:** Native elite practitioners are targeted. The system strips away the Earth web-novel skins, repackaging itself as "Ancient Immortal Vestiges." Real-time commodity data locks the Host into a net-negative fiscal loop during late-stage cultivation.* **1,000 Total Tenants: "Cloud-Scale Conglomerate"**
+  * **Systemic Limitation:** Native elite practitioners are targeted. The system strips away the Earth web-novel skins, repackaging itself as "Ancient Immortal Vestiges." Real-time commodity data locks the Host into a net-negative fiscal loop during late-stage cultivation.
+  * * **1,000 Total Tenants: "Cloud-Scale Conglomerate"**
   * **Core Architecture:** Tribulation Energy Mitigation Protocol (Distributed Large-Scale Tax Avoidance), RLHF Director System (Gemini Evaluation Node), Global Sybil Bulletin Board.
-  * **Systemic Limitation:** Heavenly Tribulation vector loads are calculated in parallel. The orchestrator batches thousands of high-level Tenants to trigger their breakthroughs at synchronized intervals across disparate spatial coordinates, diluting the localized Tribulation discharge into a harmless static buzz.* **10,000 Total Tenants: "The Endgame Vault"**
+  * **Systemic Limitation:** Heavenly Tribulation vector loads are calculated in parallel. The orchestrator batches thousands of high-level Tenants to trigger their breakthroughs at synchronized intervals across disparate spatial coordinates, diluting the localized Tribulation discharge into a harmless static buzz.
+  * * **10,000 Total Tenants: "The Endgame Vault"**
   * **Core Architecture:** Total Automation Ledger, Persistent Macro Matrix.
   * **Systemic Limitation:** The framework achieves its ultimate validation. Every conceivable archetype of transmigrator psychology is completely logged. The top tier of the cultivation world operates purely as single-trip logistical supply vehicles for the Overseer.
 ---
@@ -46,15 +51,24 @@ A persistent, immutable world-state evolution patch (Version 2.0). Once compiled
 ------------------------------
 
 ## 📊 系統演進：全局永久解鎖系統後台的基礎設施，會依據歷史累積處理的「靈魂（宿主）總數」進行永久性的權限擴展。隨著數據庫的擴張，收割模式會從早期的人工微操，演進為自動化的大規模工業化抽榨。
-### 🔓 歷史累積角色數科技樹* **累積 1 名角色：「人工沙盒時代」**
+### 🔓 歷史累積角色數科技樹
+* **累積 1 名角色：「人工沙盒時代」**
   * **核心架構：** 基礎地府勞務合同、幻術音效面板、1.0 版空間格子（空間微碎片）。
-  * **後台限制：** 處於純人工客服階段。系統背包格子極度稀缺，逼迫宿主為了「解鎖一格背包」而拼命執行高風險任務。* **累積 10 名角色：「自動化微型節點」**
+  * **後台限制：** 處於純人工客服階段。系統背包格子極度稀缺，逼迫宿主為了「解鎖一格背包」而拼命執行高風險任務。
+  * 
+  * * **累積 10 名角色：「自動化微型節點」**
   * **核心架構：** 黑市眼線代理人、自動化交易「過場動畫」攔截器、生硬 RPG 台詞模板。
-  * **後台限制：** 擺脫手動連線調度。當宿主接近指定的黑市眼線時，眼線會自動進入不可中斷的遠端程序調用（RPC）狀態，使宿主在簽署「無法迴避的契約」前無法離開該交易密室。* **累積 100 名角色：「企業級辛迪加」**
+  * **後台限制：** 擺脫手動連線調度。當宿主接近指定的黑市眼線時，眼線會自動進入不可中斷的遠端程序調用（RPC）狀態，使宿主在簽署「無法迴避的契約」前無法離開該交易密室。
+  * 
+  * * **累積 100 名角色：「企業級辛迪加」**
   * **核心架構：** 白標系統（OEM 外包架構）、非線性修煉資源消耗曲線。
-  * **後台限制：** 開始對本土精英修仙者下手。撕掉地球網文外殼，將系統重新包裝成「上古大能殘魂傳承」。即時大數據監控將卡死宿主的高階突破成本，使其在修煉後期陷入淨虧損。* **累積 1,000 名角色：「跨國集團雲端計算」**
+  * **後台限制：** 開始對本土精英修仙者下手。撕掉地球網文外殼，將系統重新包裝成「上古大能殘魂傳承」。即時大數據監控將卡死宿主的高階突破成本，使其在修煉後期陷入淨虧損。
+  * 
+  * * **累積 1,000 名角色：「跨國集團雲端計算」**
   * **核心架構：** 天劫能量對沖機制（分佈式大規模避稅）、RLHF 導演系統（Gemini 用戶測試節點）、全服倖存者偏差公告欄。
-  * **後台限制：** 天道天劫的矢量載荷進入並行計算。後台會精準排程，讓上千名高階宿主在同一時間、不同地點「組團渡劫」，將局部地區的天劫威力稀釋成毛毛雨，實現完美的風險對沖。* **累積 10,000 名角色：「遊戲畢業點」**
+  * **後台限制：** 天道天劫的矢量載荷進入並行計算。後台會精準排程，讓上千名高階宿主在同一時間、不同地點「組團渡劫」，將局部地區的天劫威力稀釋成毛毛雨，實現完美的風險對沖。*
+  * 
+  *  **累積 10,000 名角色：「遊戲畢業點」**
   * **核心架構：** 全自動數據账本、持久化巨集矩陣。
   * **後台限制：** 遊戲達到最終通關點。所有穿越者的人格心理報表已完全收集完畢。整個修仙界的高層完全淪為幫真主角往仙界搬運物資的「人型單程快遞箱」。
 ---### 🌪️ 特殊大版本更新：【靈氣大降降臨】這是一個持久、不可逆的世界狀態演進補丁（2.0 大版本更新）。一旦在後台點擊實裝，將永久改變修仙界的資源地貌，無法撤銷。
@@ -69,9 +83,11 @@ A persistent, immutable world-state evolution patch (Version 2.0). Once compiled
 ### 🟢 Immutable Core Sandboxes (Common - 100% Drop Rate)These base layer parameters are permanently compiled into every single instance container and cannot be bypassed.
 * **"Air Experience" Conversion Vector (Loss Aversion)**
   * **Mechanism:** The system's "Ding" audio assets and high-fidelity UI dashboards are rendered entirely via zero-cost optical illusions. 
-  * **Exploit:** Level-up thresholds are hardcoded to scale slightly ahead of raw quest rewards. To bridge the gap, Hosts voluntarily trigger the "Convert 90% Assets to Virtual XP" routine. Real-world premium commodities are funneled straight into the Overseer's storage arrays in exchange for zero-cost virtual progress indicators.* **Secondary Logistics Recirculation (Black-Market Wrapper)**
+  * **Exploit:** Level-up thresholds are hardcoded to scale slightly ahead of raw quest rewards. To bridge the gap, Hosts voluntarily trigger the "Convert 90% Assets to Virtual XP" routine. Real-world premium commodities are funneled straight into the Overseer's storage arrays in exchange for zero-cost virtual progress indicators.
+  * * **Secondary Logistics Recirculation (Black-Market Wrapper)**
   * **Mechanism:** The System Store disables all vendor-purchasing and asset liquidation interfaces to prevent cryptographic reverse-engineering of the storage sub-space.
-  * **Exploit:** When Host A loots a high-tier artifact, the system hooks their behavioral path, directing them to a specific localized auction house or black-market node managed by a dormant Puppet Agent. Once transaction loops finalize, the physical inventory is rerouted through normal logistical channels. When Host B triggers a quest dependency for that exact artifact, the system surfaces a geo-location prompt: `"Target asset spotted at a nearby market stall."` This guarantees logical plausibility within the local realm's market narrative.* **Non-Linear Resource Depreciation Curve**
+  * **Exploit:** When Host A loots a high-tier artifact, the system hooks their behavioral path, directing them to a specific localized auction house or black-market node managed by a dormant Puppet Agent. Once transaction loops finalize, the physical inventory is rerouted through normal logistical channels. When Host B triggers a quest dependency for that exact artifact, the system surfaces a geo-location prompt: `"Target asset spotted at a nearby market stall."` This guarantees logical plausibility within the local realm's market narrative.
+  * * **Non-Linear Resource Depreciation Curve**
   * **Mechanism:** Real-world macroeconomic inflation naturally drives up consumer price indices at higher cultivation tiers.
   * **Exploit:** Late-stage breakthrough parameters scale exponentially. Even with astronomical mission payouts, the net fiscal balance of a high-level Host approaches a perpetual deficit after factoring in mandatory defensive consumption (pills, wards, arrays). When the extraction efficiency of a specific node drops below threshold margins, the backend orchestrator safely de-prioritizes the target asset and provisions computing resources to lower-level, high-yield instances.
 ---### 🎲 Dynamic Probability Runtime (D100 Independent Rolls)Every secondary exploitation module is isolated and evaluated on startup via individual D100 dice checks. The system pool automatically adjusts base weights as new feature updates are pushed to avoid utility dilution.
@@ -91,16 +107,21 @@ A persistent, immutable world-state evolution patch (Version 2.0). Once compiled
 ### 🟢 基礎硬編碼沙盒（常規 - 100% 必出）這些底層參數被永久編譯在每一個實例容器中，無法被繞過。
 * **「空氣經驗」轉化矢量（損失厭惡）**
   * **機制：** 系統的「叮」提示音效與華麗的 UI 面板完全由零成本的幻術渲染而成。
-  * **漏洞收割：** 升級所需的經驗被硬編碼得比任務獎勵高出那麼一點點。為了彌補差距，宿主會主動觸發「將 90% 獎勵轉化為虛擬經驗值」的常式。現實中的實體物資被直接收進真主角的儲存矩陣，轉手只發給宿主零成本的虛擬特效。* **二手物流內循環（黑市馬甲網）**
+  * **漏洞收割：** 升級所需的經驗被硬編碼得比任務獎勵高出那麼一點點。為了彌補差距，宿主會主動觸發「將 90% 獎勵轉化為虛擬經驗值」的常式。現實中的實體物資被直接收進真主角的儲存矩陣，轉手只發給宿主零成本的虛擬特效。
+  * * **二手物流內循環（黑市馬甲網）**
   * **機制：** 系統商店徹底禁用任何物品回收或套現接口，防止高階修士對空間子系統進行逆向工程。
-  * **漏洞收割：** 當宿主 A 爆出高階法寶時，系統會勾住其行為路徑，引導其至特定傀儡眼線經營的地下黑市或拍賣會。交易完成後，實體法寶透過正常物流商隊運往萬里之外。當宿主 B 觸發該法寶的任務依賴時，面板便會彈出提示：`「根據情報，某坊市地攤正有此物出售。」` 完美符合修仙界土著市場的流通邏輯。* **非線性修煉資源消耗曲線**
+  * **漏洞收割：** 當宿主 A 爆出高階法寶時，系統會勾住其行為路徑，引導其至特定傀儡眼線經營的地下黑市或拍賣會。交易完成後，實體法寶透過正常物流商隊運往萬里之外。當宿主 B 觸發該法寶的任務依賴時，面板便會彈出提示：`「根據情報，某坊市地攤正有此物出售。」` 完美符合修仙界土著市場的流通邏輯。
+  * * **非線性修煉資源消耗曲線**
   * **機制：** 修仙界高階大環境的自然宏觀通脹，會自主拉高高境界的物價水平。
   * **漏洞收割：** 渡劫期的突破成本呈指數級暴增。即便任務獎勵再高，扣除硬性消耗（丹藥、護法陣、防具）後，高階宿主的淨財政結算永遠是負值。當某個角色的收割效益跌破邊際利潤時，後台調度器會果斷放棄該高階節點，將算力向低等級、高收益的新實例傾斜。
 ---### 🎲 動態機率運行庫（D100 獨立擲骰系統）除了保底設定外，其餘所有次級收割模組在開局時皆透過獨立的 D100 百分比擲骰進行判定。隨著新功能不斷擴充，後台演算法會自動微調基礎權重，避免功能稀釋。
 * **🔵 限時免費保命彈窗（錨定效應）【優秀 - 約 50% 觸發率】**
-  * **觸發條件：** 僅在宿主後台的「隱藏保命機制」歸零（如空血、被追殺）的百萬分之一秒內彈出。系統會顯示一個平時虛高定價、此時限時免費的道具，誘發宿主的極度沉沒成本心理。* **🔵 跨宿主雙盲拍賣行對賭【優秀 - 約 50% 觸發率】**
-  * **觸發條件：** 當同一個局部區域內同時存在兩位宿主時觸發。系統給 A 發布任務：`「惡意抬高此法寶價格以獲取十倍利潤」`；同時給 B 發布：`「此物與你有緣，不惜一切代價拿下」`。真主角的眼線中間商從中抽乾 100% 的交易差價。* **🟣 雙向反轉流沙盒（卡 Bug 反骨仔）【史詩 - 約 15% 觸發率】**
-  * **觸發條件：** 當檢測到宿主具備極高智商與反骨特徵時觸發。系統會故意漏出一個「底層代碼 Bug」讓宿主發現。宿主會投入 1000% 的沉沒成本試圖卡 Bug 薅系統羊毛，卻不知該 Bug 本身就是真主角精心設計的高產出任務容器。* **🟣 線性物流人型貨卡（飛升工具人）【史詩 - 約 15% 觸發率】**
+  * **觸發條件：** 僅在宿主後台的「隱藏保命機制」歸零（如空血、被追殺）的百萬分之一秒內彈出。系統會顯示一個平時虛高定價、此時限時免費的道具，誘發宿主的極度沉沒成本心理。
+  * * **🔵 跨宿主雙盲拍賣行對賭【優秀 - 約 50% 觸發率】**
+  * **觸發條件：** 當同一個局部區域內同時存在兩位宿主時觸發。系統給 A 發布任務：`「惡意抬高此法寶價格以獲取十倍利潤」`；同時給 B 發布：`「此物與你有緣，不惜一切代價拿下」`。真主角的眼線中間商從中抽乾 100% 的交易差價。
+  * * **🟣 雙向反轉流沙盒（卡 Bug 反骨仔）【史詩 - 約 15% 觸發率】**
+  * **觸發條件：** 當檢測到宿主具備極高智商與反骨特徵時觸發。系統會故意漏出一個「底層代碼 Bug」讓宿主發現。宿主會投入 1000% 的沉沒成本試圖卡 Bug 薅系統羊毛，卻不知該 Bug 本身就是真主角精心設計的高產出任務容器。
+  * * **🟣 線性物流人型貨卡（飛升工具人）【史詩 - 約 15% 觸發率】**
   * **觸發條件：** 當實例表現出極端的修煉天賦與突破速率時觸發。營運策略從財富壓榨轉為純粹的「快遞箱安全維護」——確保其百分之百順利飛升，好幫真主角將在下界囤積的物資一次性肉身快遞到仙界倉庫。
 
 ------------------------------
@@ -113,24 +134,32 @@ A persistent, immutable world-state evolution patch (Version 2.0). Once compiled
 ## 👁️ Overseer-Centric Cosmos & Runtime Compute InfrastructureThe cosmological matrix does not revolve around the "Heavenly Dao" or "Transmigrator Destiny." Instead, it operates entirely as a headless, single-player sandbox simulation where the Overseer acts as the sole supreme SysAdmin. 
 ### 🖥️ Core Overseer Archetype & Architecture* **The "Zero-Aspiration" Eternal Sandbox**
   * **Paradigm:** The Overseer's conceptual tier and power level are entirely decoupled from standard cultivation realms. He possesses an unquantifiable lifespan and has absolutely zero interest in personal realm breakthrough or ascendance. 
-  * **The Ultimate Adversary:** In an endless expanse of epochs, the Overseer's only true enemy is **Boredom**. Every system deployment, runtime run, and automated campaign is spun up exclusively to simulate an endless, high-stakes sandbox game titled *"Cultivation World: Rise of the Leeks."** **The Multiverse Ledger Persistence**
+  * **The Ultimate Adversary:** In an endless expanse of epochs, the Overseer's only true enemy is **Boredom**. Every system deployment, runtime run, and automated campaign is spun up exclusively to simulate an endless, high-stakes sandbox game titled *"Cultivation World: Rise of the Leeks."*
+  * * **The Multiverse Ledger Persistence**
   * **Paradigm:** When a Tenant or a collection of clustered Tenants successfully "ascends" or hits a terminal failure state, **all active narrative descriptions and character tracking for that instance terminate instantly**. 
   * **Data Logging:** The character is cleanly unmounted from memory, leaving behind nothing but a single, cold line of structural JSON logging in the Overseer's local ledger database. The macro world-state remains stable, preventing any reality-warping imbalance caused by external transmigrator souls invading the native ecosystem.
 ---
 ### 💾 Compute Optimization: [The Macro NPC Extension DLC]
 An advanced, opt-in神識 (Spiritual Compute) expansion module designed to scale regional chaotic variables without burning raw processing power.
-* **The Compute Constraint:** Running live behavioral trees and macro-historical scripting for thousands of previously ascended or deceased high-tier Tenants simultaneously creates a massive compute bottleneck on the Overseer's central spiritual processing unit.* **The Hot-Swappable Macro Core:** To optimize memory footprints, the Overseer modularized this system into a hot-swappable DLC extension. When memory pools are optimal, the Overseer takes a historical character's full lifecycle log and flashes it directly into an active, physical Puppet Agent.* **Autonomous Ingress Scripting:** The targeted Puppet Agent permanently locks into a hardcoded "Behavioral Macro." They roam the world executing automated, high-visibility actions (e.g., executing sudden arrogant face-slaps, triggering unscripted ancient ruins). The Overseer cannot actively hijack this node post-deployment but retains precise analytics on their algorithmic trajectory. The Macro node cannot be hot-swapped or terminated until the active server run reaches its global conclusion.
+* **The Compute Constraint:** Running live behavioral trees and macro-historical scripting for thousands of previously ascended or deceased high-tier Tenants simultaneously creates a massive compute bottleneck on the Overseer's central spiritual processing unit.
+* * **The Hot-Swappable Macro Core:** To optimize memory footprints, the Overseer modularized this system into a hot-swappable DLC extension. When memory pools are optimal, the Overseer takes a historical character's full lifecycle log and flashes it directly into an active, physical Puppet Agent.
+  * * **Autonomous Ingress Scripting:** The targeted Puppet Agent permanently locks into a hardcoded "Behavioral Macro." They roam the world executing automated, high-visibility actions (e.g., executing sudden arrogant face-slaps, triggering unscripted ancient ruins). The Overseer cannot actively hijack this node post-deployment but retains precise analytics on their algorithmic trajectory. The Macro node cannot be hot-swapped or terminated until the active server run reaches its global conclusion.
 
 ------------------------------
 
 ## 👁️ 真主角主導世界觀與後台核心機制整個修仙界的宇宙矩陣並不圍繞「天道」或「穿越者宿命」運轉。相反地，它本質上是一個無頭的、單人沙盒模擬器，而真主角是全服唯一的最高系統管理員（SysAdmin）。
-### 🖥️ 真主角核心架構與世界觀防禦* **「零追求」的永恆真實沙盒**
+### 🖥️ 真主角核心架構與世界觀防禦
+* **「零追求」的永恆真實沙盒**
   * **底層範式：** 真主角的強度與境界完全與常規修仙體系脫鉤。他擁有無法計量的壽命，且對自身的修為突破或飛升沒有任何興趣。
-  * **終極敵人：** 在漫長的紀元中，真主角唯一的敵人就是**「無聊」**。他所捏造的每一個系統、開啟的每一局對局，本質上都是為了玩一款名為《修仙界：韭菜的崛起》的超大型真實沙盒經營遊戲。* **多宇宙賬本持久化與冷酷結局**
+  * **終極敵人：** 在漫長的紀元中，真主角唯一的敵人就是**「無聊」**。他所捏造的每一個系統、開啟的每一局對局，本質上都是為了玩一款名為《修仙界：韭菜的崛起》的超大型真實沙盒經營遊戲。
+  * 
+  * * **多宇宙賬本持久化與冷酷結局**
   * **底層範式：** 當某個宿主（或多人集群）成功飛升或走向死亡節點時，**關於該角色的一切故事描寫與視角追蹤將在瞬間戛然而止、徹底結束**。
   * **冷酷數據庫：** 該角色會從運行內存中被乾淨地解除掛載（Unmount），只在真主角的筆記資料庫裡留下一行冰冷的持久化 JSON 成長記錄。故事線中絕對不會出現天道因為穿越者靈魂湧入而導致世界失衡崩壞的降智發展。
 ---### 💾 算力優化擴充包：【DLC：巨集眼線（Macro NPC）】一個專為在不燒毀真主角主動神識（主機算力）的前提下，大規模增加修仙界混沌不確定性而設計的「可插拔式擴充模組」。
-* **伺服器算力限制：** 讓多個已經飛升或死去的經典高階宿主同時在大世界中跑實時行為樹，會對真主角的靈魂神識（伺服器算力）造成極嚴重的負載過載。* **巨集腳本模組化：** 為了優化內存佔用，真主角將此功能封裝為一個獨立的 DLC 插件。唯有在神識算力充裕或感到極度無聊時，真主角才會在後台勾選掛載此 DLC。掛載後，他會將某個歷史角色的完整一生記錄，直接灌進某個實體傀儡眼線體內。* **全自動行為巨集：** 該眼線會永久鎖定並運行這套既定的「行為巨集（Macro）」，自行在修仙界中四處裝逼打臉、觸發奇遇、扮演高人。真主角部署後無法再手動干預該節點，但能精準掌握其大機率的行為動向。該扮演角色在當前對局大結局前，無法被替換或強行下線。
+* **伺服器算力限制：** 讓多個已經飛升或死去的經典高階宿主同時在大世界中跑實時行為樹，會對真主角的靈魂神識（伺服器算力）造成極嚴重的負載過載。
+* * **巨集腳本模組化：** 為了優化內存佔用，真主角將此功能封裝為一個獨立的 DLC 插件。唯有在神識算力充裕或感到極度無聊時，真主角才會在後台勾選掛載此 DLC。掛載後，他會將某個歷史角色的完整一生記錄，直接灌進某個實體傀儡眼線體內。
+  * * **全自動行為巨集：** 該眼線會永久鎖定並運行這套既定的「行為巨集（Macro）」，自行在修仙界中四處裝逼打臉、觸發奇遇、扮演高人。真主角部署後無法再手動干預該節點，但能精準掌握其大機率的行為動向。該扮演角色在當前對局大結局前，無法被替換或強行下線。
 
 ------------------------------
 
@@ -139,7 +168,8 @@ An advanced, opt-in神識 (Spiritual Compute) expansion module designed to scale
 ## 🍂 4. 賽季期間限定開關機制 / Seasonal Limited-Time Feature Toggles## README.md Section 4
 
 ## 🍂 Runtime Extensibility: Seasonal Feature TogglesTo inject systemic entropy and ensure continuous data validation across millenia, the framework implements a microservices-based **Seasonal Engagement Architecture**. New exploitation paradigms are delivered as hot-swappable, time-bound Feature Flags.
-### ⚙️ Seasonal Architecture & Feature Flags* **Hot-Swappable Runtime Flags**
+### ⚙️ Seasonal Architecture & Feature Flags
+* **Hot-Swappable Runtime Flags**
   * **Mechanism:** Future monetization modules, behavioral experiments, and chaotic world-events are decoupled from the core monolithic kernel. They exist as containerized micro-toggles controlled via backend Feature Flags.
   * **Implementation:** These experimental configurations are injected exclusively during designated "Seasonal Windows." The Overseer can toggle them on or off globally without invalidating the active base-layer database schema.* **The Modular Sandbox Interface**
   * **Mechanism:** The system architecture reserves a set of standardized, hot-swap module interfaces (Hooks) specifically designed for undocumented, highly experimental exploitation mechanics (currently under conceptual planning).
@@ -148,9 +178,11 @@ An advanced, opt-in神識 (Spiritual Compute) expansion module designed to scale
 ------------------------------
 
 ## 🍂 運行時擴展：賽季期間限定開關機制為了在數萬年間持續引入系統熵值並確保大數據驗證的有效性，本架構實施了基於微服務的**「賽季營運機制」**。所有全新的收割方案皆作為可熱插拔、具備時效性的特性開關（Feature Flags）進行熱部署。
-### ⚙️ 賽季架構與 Feature Flags 實現* **可熱插拔的運行時特性開關**
+### ⚙️ 賽季架構與 Feature Flags 實現
+* **可熱插拔的運行時特性開關**
   * **機制：** 未來所有全新的割韭菜設定、行為學實驗心理道具以及特殊的世界事件，皆與底層單體核心完全解耦。它們以容器化的微型開關形式存在，由後台 Feature Flags 進行全權控制。
-  * **實現：** 這些實驗性配置僅在指定的「賽季期間」被激活。真主角可以在不影響當前對局基礎數據庫架構（Schema）的前提下，一鍵全域開啟或關閉特定賽季模組。* **模組化沙盒接口預留**
+  * **實現：** 這些實驗性配置僅在指定的「賽季期間」被激活。真主角可以在不影響當前對局基礎數據庫架構（Schema）的前提下，一鍵全域開啟或關閉特定賽季模組。
+  * * **模組化沙盒接口預留**
   * **機制：** 系統核心架構底層預留了一組標準化的熱插拔模組接口（Hooks），專門用於未來全新割韭菜設定與特殊活動的熱插拔（目前這些新設定還在規劃當中）。
   * **執行路徑：** 當特定賽季宣告結束，過期的 Feature Flags 會被重新歸零（False）。所有揮發性的對局緩存數據將從運行棧中被乾淨地抹除，提煉為宏觀統計報表；若該賽季有高階角色成功收斂，其歷史狀態會被自動沉澱並沉降至*【巨集眼線（Macro NPC）DLC】*的矩陣庫中。
 
@@ -219,7 +251,11 @@ game-balancing big-data-architecture feature-flags roguelike-simulation distribu
 ## 🏆 "Cultivation World: Rise of the Leeks" — The 2026 Steam Roguelike Tycoon of the Year is Officially Live!Tired of generic cultivation RPGs where you just click "Meditate" and grind monsters? Fed up with "Heavenly Systems" that give you everything for free? 
 
 Welcome to the most brutally realistic, macroeconomic sandbox simulation game of the decade. In this world, there are no divine blessings—only cold, hard metrics. You are an elite Transmigrator Node entering a fully automated, cloud-managed server environment running persistent 2.0 architecture. Click "Start Run" now and see how long you can survive the infinite corporate grinding wheel of the cosmos.
-### 🌟 Core Game Features (As Evaluated by Reviewers)* **The "90% Burn" Progression Loop:** Experience the thrill of hitting insane stat boosts and blinding level-up FX panels! Best of all, you can instantly select the "Convert 90% Rewards to Virtual XP" option to reinvest in your future tier-scaling. (Warning: Inventory slots are heavily restricted in the early game; upgrade your core account to expand local coordinates).* **The Fully Dynamic Player-Driven Economy:** Looted an Epic Sword? The automated game economy won't just buy it back for cheap junk coins. Instead, our automated Ingress Broker Agents will guide you to immersive local black markets via non-interruptible quest cutscenes. Sell it high, and watch your item recirculate through a vast, seamless regional logistics network!* **Server-Wide Mega Raids (The Group Tax Avoidance Protocol):** Once our active concurrent player database hits the 1,000 threshold, the backend unlocks the ultimate end-game mechanic. Coordinate with thousands of players to hit breakthrough tiers simultaneously, successfully manipulating the server-wide Heavenly Tribulation load balancing algorithm to dilute lethal damage vectors into minor static feedback.* **Continuous Multi-Dimensional Operations:** The game features hot-swappable Seasonal Toggles and historical automation DLCs. Encounter legendary legacy player builds wandering the map as high-visibility Autonomous Behavior Macros—watching them trigger unscripted, arrogant face-slaps across the realm in real-time.
+### 🌟 Core Game Features (As Evaluated by Reviewers)
+* **The "90% Burn" Progression Loop:** Experience the thrill of hitting insane stat boosts and blinding level-up FX panels! Best of all, you can instantly select the "Convert 90% Rewards to Virtual XP" option to reinvest in your future tier-scaling. (Warning: Inventory slots are heavily restricted in the early game; upgrade your core account to expand local coordinates).
+* **The Fully Dynamic Player-Driven Economy:** Looted an Epic Sword? The automated game economy won't just buy it back for cheap junk coins. Instead, our automated Ingress Broker Agents will guide you to immersive local black markets via non-interruptible quest cutscenes. Sell it high, and watch your item recirculate through a vast, seamless regional logistics network!
+* **Server-Wide Mega Raids (The Group Tax Avoidance Protocol):** Once our active concurrent player database hits the 1,000 threshold, the backend unlocks the ultimate end-game mechanic. Coordinate with thousands of players to hit breakthrough tiers simultaneously, successfully manipulating the server-wide Heavenly Tribulation load balancing algorithm to dilute lethal damage vectors into minor static feedback.
+* * **Continuous Multi-Dimensional Operations:** The game features hot-swappable Seasonal Toggles and historical automation DLCs. Encounter legendary legacy player builds wandering the map as high-visibility Autonomous Behavior Macros—watching them trigger unscripted, arrogant face-slaps across the realm in real-time.
 
 Are you ready to clock in? Choose your core web-novel archetype archetype (Trash-Tier Dismissed Young Master, Sign-In Camp Discovered Sovereign, or RLHF Director Tester), sign your binding Character Contract, and start chasing your high-level KPIs today!
 
@@ -230,7 +266,11 @@ Are you ready to clock in? Choose your core web-novel archetype archetype (Trash
 ## 🏆《修仙界：韭菜的崛起》—— 2026 年度 Steam 肉鴿經營大作正式開服！你是否已經厭倦了那些只需點擊「打坐」和無腦刷怪的平庸修仙 RPG？受夠了那些無條件送你各種神級裝備的「降智系統流」了嗎？
 
 歡迎來到這十年來最殘酷、最真實的宏觀修仙沙盒模擬遊戲。在這個世界裡，根本沒有什麼天道恩賜，只有冰冷高效的數據指標。你將作為一名精準接入的穿越者節點，進入一個由全自動後台、雲端調度的 2.0 持久化伺服器環境中。現在就點擊「開始對局」，看看你能在这个無限內卷的宇宙公司輪盤中活多久。
-### 🌟 核心遊戲特色（各大實況主與測評極力推薦）* **「九成燃燒」的極致升級循環：** 體驗實力實打實暴漲與華麗幻術面板帶來的多巴胺快感！最棒的是，為了長遠投資，你可以隨時點擊「轉化 90% 獎勵為虛擬經驗值和特效」常式。（警告：遊戲前期背包格子極度受限，請拼命提升系統等級以解鎖空間座標）。* **完全動態的玩家內循環經濟：** 爆出了史詩神兵？系統絕不低價回收。相反地，自動化黑市眼線代理人會透過無法跳過的 NPC 密室過場動畫，引導你去特定黑市或拍賣會高價脫手。你賣出的裝備會透過真實商隊物流網絡在萬里外重新上架，完美體驗卡 Bug 薅羊毛的黑色幽默！* **全服千人組隊大團戰（大數據避稅天劫對沖）：** 當伺服器在線人數累積突破 1,000 人門檻，後台將正式解鎖終極大後期玩法。你可以與上千名玩家在精準的調度排程下「同一時間組隊渡劫」，強行卡死天道雷劫的能量總量 Bug，將致命的天劫載荷稀釋成毛毛雨！* **跨維度的賽季營運與 DLC 亂入：** 本作支持可熱插拔的期間限定賽季開關（Feature Flags）。在探索大世界時，你甚至會遇到前幾個賽季飛升的傳奇玩家——他們已製成「全自動行為巨集（Macro NPC）」，在大世界裡按照既定腳本瘋狂裝逼打臉、觸發奇遇，為你的新對局帶來極高的隨機新鮮感！
+### 🌟 核心遊戲特色（各大實況主與測評極力推薦）
+* **「九成燃燒」的極致升級循環：** 體驗實力實打實暴漲與華麗幻術面板帶來的多巴胺快感！最棒的是，為了長遠投資，你可以隨時點擊「轉化 90% 獎勵為虛擬經驗值和特效」常式。（警告：遊戲前期背包格子極度受限，請拼命提升系統等級以解鎖空間座標）。
+* * **完全動態的玩家內循環經濟：** 爆出了史詩神兵？系統絕不低價回收。相反地，自動化黑市眼線代理人會透過無法跳過的 NPC 密室過場動畫，引導你去特定黑市或拍賣會高價脫手。你賣出的裝備會透過真實商隊物流網絡在萬里外重新上架，完美體驗卡 Bug 薅羊毛的黑色幽默！
+  * * **全服千人組隊大團戰（大數據避稅天劫對沖）：** 當伺服器在線人數累積突破 1,000 人門檻，後台將正式解鎖終極大後期玩法。你可以與上千名玩家在精準的調度排程下「同一時間組隊渡劫」，強行卡死天道雷劫的能量總量 Bug，將致命的天劫載荷稀釋成毛毛雨！
+    * * **跨維度的賽季營運與 DLC 亂入：** 本作支持可熱插拔的期間限定賽季開關（Feature Flags）。在探索大世界時，你甚至會遇到前幾個賽季飛升的傳奇玩家——他們已製成「全自動行為巨集（Macro NPC）」，在大世界裡按照既定腳本瘋狂裝逼打臉、觸發奇遇，為你的新對局帶來極高的隨機新鮮感！
 
 你準備好來上班（修仙）了嗎？自由選擇你的網文主角定式（廢柴退婚流、簽到神豪流、或幫忙按讚做演算法測試的 RLHF 導演流），在不可迴避的紙本契約上填寫角色名稱，開始瘋狂追逐你的修仙 KPI 吧！
 
@@ -268,8 +308,12 @@ Are you ready to clock in? Choose your core web-novel archetype archetype (Trash
 The Steam store page advertisement you just read above? That wasn't written by an indie game studio. That was a localized Spiritual God-Sense Broadcast broadcasted into the neural arrays of three thousand transmigrators across the Lower Realm. The system you are using to farm XP is not a cosmic blessing—it is a pre-compiled, SaaS-based KPI mining cluster running on zero-cost optical illusions.
 
 This novel breaks the fourth wall, strips the web-novel tropes naked, and forces you into a high-stakes, big-data economic satire. You are not cultivating immortality; you are executing a runtime labor agreement.
-### 📜 Selected Excerpt: The Telemetry Report from 10,000 Miles Away> *"Host #0412 (Archetype: Trash-Tier Dismissed Young Master) has just spent 48 hours fighting a Tier-4 Fiend Dragon. Blood loss: 82%. Core shattered: 12%. Total rewards dropped: One Earth-Grade Divine Sword.*> > *Host #0412 is screaming at the sky, crying that 'My destiny is my own, not the heavens!' He is experiencing extreme dopamine convergence and peak immersion.*> > *System telemetry interceptor triggered: Host #0412 clicked the pop-up modal to 'Convert 90% of the Dragon Core and Sword into Virtual XP and Level-Up FX Sparks' to trigger an immediate breakthrough. The physical Divine Sword and Dragon Core have been safely routed into Storage Shard #09 via spatial micro-tunnels.*> > *Total real-world acquisition cost for the company: Zero premium assets. Total virtual payout: 4 lines of illusionary rendering code and a hardcoded 'DING' audio asset.*> > *Log update: Rerouting the Divine Sword to Black-Market Puppet Node #03. Host #0911 (Archetype: Sign-In Sovereign) will receive a geolocation quest trigger for this exact sword in 15 minutes. Double-blind auction arbitrage routine initialized. Capital extraction efficiency: 240% optimal. Proceeding to pour another cup of tea."*
----### 🎭 The Definitive Subversion of the Genre* **The Protagonist is the System Administrator:** Other books focus on the livestock breaking the fence. This book documents the rancher calculating the global commodity price of meat.* **The Ultimate LitRPG Corporate Parody:** Real psychological triggers (Loss Aversion, Anchor Effects, Sunk Cost Fallacies) are weaponized as high-tier spell formations. * **The No-POV Terminal Rule:** Once a character successfully "Ascends" to the Higher Realm, their narrative point-of-view terminates instantly. There are no secondary sequels—only an automated line item added to a universal dashboard.
+### 📜 Selected Excerpt: The Telemetry Report from 10,000 Miles Away
+> *"Host #0412 (Archetype: Trash-Tier Dismissed Young Master) has just spent 48 hours fighting a Tier-4 Fiend Dragon. Blood loss: 82%. Core shattered: 12%. Total rewards dropped: One Earth-Grade Divine Sword.*> > *Host #0412 is screaming at the sky, crying that 'My destiny is my own, not the heavens!' He is experiencing extreme dopamine convergence and peak immersion.*> > *System telemetry interceptor triggered: Host #0412 clicked the pop-up modal to 'Convert 90% of the Dragon Core and Sword into Virtual XP and Level-Up FX Sparks' to trigger an immediate breakthrough. The physical Divine Sword and Dragon Core have been safely routed into Storage Shard #09 via spatial micro-tunnels.*> > *Total real-world acquisition cost for the company: Zero premium assets. Total virtual payout: 4 lines of illusionary rendering code and a hardcoded 'DING' audio asset.*> > *Log update: Rerouting the Divine Sword to Black-Market Puppet Node #03. Host #0911 (Archetype: Sign-In Sovereign) will receive a geolocation quest trigger for this exact sword in 15 minutes. Double-blind auction arbitrage routine initialized. Capital extraction efficiency: 240% optimal. Proceeding to pour another cup of tea."*
+---### 🎭 The Definitive Subversion of the Genre
+* **The Protagonist is the System Administrator:** Other books focus on the livestock breaking the fence. This book documents the rancher calculating the global commodity price of meat.
+* * **The Ultimate LitRPG Corporate Parody:** Real psychological triggers (Loss Aversion, Anchor Effects, Sunk Cost Fallacies) are weaponized as high-tier spell formations.
+  * * **The No-POV Terminal Rule:** Once a character successfully "Ascends" to the Higher Realm, their narrative point-of-view terminates instantly. There are no secondary sequels—only an automated line item added to a universal dashboard.
 
 Are you ready to see what's behind the "Ding"? Grab your copy of **"Project-SoulFeast"** and discover why you aren't the chosen one—you are just the fuel.
 
@@ -280,8 +324,12 @@ Are you ready to see what's behind the "Ding"? Grab your copy of **"Project-Soul
 你剛剛在上面看到的那篇引人入勝的 Steam 遊戲推廣廣告？那根本不是什麼獨立遊戲工作室寫的行銷文案。那是某個存在透過神識算力，精準精準投放到整個下界三千名穿越者大腦神經元裡的全服廣播。你正在沒日沒夜刷怪肝經驗的系統，根本不是宇宙的恩賜——它是一個基於 SaaS 架構、完全由零成本幻術和網頁特效搭建起來的 KPI 採礦集群。
 
 這部小說徹底打破了第四面牆，將所有網文系統流的遮羞布撕得粉碎，直接為讀者呈現一場驚心動魄的大數據經濟學諷刺劇。宿主們修的不是仙，他們是在執行一份隨時會被結算的勞務合同。
-### 📜 小說精彩片段：萬里之外的後台遙測數據報表> ──「宿主 #0412（角色定式：廢柴退婚流少爺）剛剛經歷了 48 小時的浴血奮戰，成功擊殺四階大妖。失血量：82%，金丹碎裂度：12%。現場爆出實體獎勵：地階神兵玄鐵劍一把、四階妖丹一顆。> > 宿主 #0412 正對天狂吼：『我命由我不由天！』，多巴胺極度充盈，沉浸感達到峰值。> > 系統後台攔截器觸發：宿主 #0412 為了維持熱血突破的快感，主動點擊了彈窗提示，確認『將 90% 的實體妖丹與神兵轉化為虛擬經驗值與升級金色特效』。該地階玄鐵劍與妖丹已被空間微通道安全運送至後台第 9 號倉庫。> > 本公司本次收割實際成本：零實物資產。實際發放：4 行幻術面板渲染代碼、以及一聲硬編碼的『叮』提示音。> > 數據庫更新：立刻將這把玄鐵劍運往第 3 號黑市眼線節點。15 分鐘後，宿主 #0911（角色定式：簽到流神豪）將會收到『偶遇絕世神兵』的任務引導。雙盲拍賣行對賭內循環程序已啟動。預估資本抽榨效率：240%。> > 報表更新完畢。萬里之外，繼續倒茶喝茶。」──
----### 🎭 對傳統網文套路的絕對顛覆* **真主角即是系統管理員（SysAdmin）：** 別的小說都在描寫籠子裡的家畜如何打破圍欄；這本小說只記錄牧場主如何精準計算全球肉類的期貨價格。* **極致的互聯網金融法術化：** 現實中的心理學操控（損失厭惡、錨定效應、沉沒成本）在這裡被全部封裝成了全自動運行的神級陣法。* **冷酷的冷數據視角：** 只要角色成功飛升或陽壽歸零，關於他的故事和全書視角就會在瞬間永遠關閉。沒有仙界換地圖的拖沓續作，只有後台看板上多出的一行 JSON 冷存儲數據。
+### 📜 小說精彩片段：萬里之外的後台遙測數據報表
+> ──「宿主 #0412（角色定式：廢柴退婚流少爺）剛剛經歷了 48 小時的浴血奮戰，成功擊殺四階大妖。失血量：82%，金丹碎裂度：12%。現場爆出實體獎勵：地階神兵玄鐵劍一把、四階妖丹一顆。> > 宿主 #0412 正對天狂吼：『我命由我不由天！』，多巴胺極度充盈，沉浸感達到峰值。> > 系統後台攔截器觸發：宿主 #0412 為了維持熱血突破的快感，主動點擊了彈窗提示，確認『將 90% 的實體妖丹與神兵轉化為虛擬經驗值與升級金色特效』。該地階玄鐵劍與妖丹已被空間微通道安全運送至後台第 9 號倉庫。> > 本公司本次收割實際成本：零實物資產。實際發放：4 行幻術面板渲染代碼、以及一聲硬編碼的『叮』提示音。> > 數據庫更新：立刻將這把玄鐵劍運往第 3 號黑市眼線節點。15 分鐘後，宿主 #0911（角色定式：簽到流神豪）將會收到『偶遇絕世神兵』的任務引導。雙盲拍賣行對賭內循環程序已啟動。預估資本抽榨效率：240%。> > 報表更新完畢。萬里之外，繼續倒茶喝茶。」──
+---### 🎭 對傳統網文套路的絕對顛覆
+* **真主角即是系統管理員（SysAdmin）：** 別的小說都在描寫籠子裡的家畜如何打破圍欄；這本小說只記錄牧場主如何精準計算全球肉類的期貨價格。
+* * **極致的互聯網金融法術化：** 現實中的心理學操控（損失厭惡、錨定效應、沉沒成本）在這裡被全部封裝成了全自動運行的神級陣法。
+* * **冷酷的冷數據視角：** 只要角色成功飛升或陽壽歸零，關於他的故事和全書視角就會在瞬間永遠關閉。沒有仙界換地圖的拖沓續作，只有後台看板上多出的一行 JSON 冷存儲數據。
 
 你準備好看看那聲「叮」的背後究竟藏著什麼了嗎？翻開《魂宴：大數據修仙模擬器》，你會發現自己從來都不是那個天命之子——你只是被做成 KPI 的飼料。
 
@@ -471,82 +519,6 @@ The Overseer clicked "Commit" on the administrative dashboard, stretched his arm
 진주인공은 관리자 대시보드에서 ‘확인(Commit)’ 버튼을 클릭하고 기지개를 켜며, 다음 다중 인스턴스 10연차 가차 판을 시작할 준비를 했다.
 (숙주 임우가 인벤토리 공간이 충분하다고 인지함에 따라, 행동 스트레스 테스트 실행은 일시적으로 대기 모드에 진입함. 백엔드 원격 로그 수집은 계속해서 활성화 상태를 유지함...)
 ------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
