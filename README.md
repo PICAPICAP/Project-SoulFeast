@@ -648,3 +648,145 @@ The man clicked "Commit" on his administrative panel once more, clearing the act
 
 
 
+## 📓 Multiverse Sandbox Backend Memorandum: [Confidential Declassification Appendix ── Internal Audit on "Live Attrition Rates"]## File Reference: SYS-LOG-V2.0-ACTUARIAL (Fully Revised Edition)
+
+🔒 Security Clearance: This appendix is an exclusive, unpublicized developer log for the GM administrative console, permanently mounted within the cold-storage sectors of the cosmic reality matrix. For any entity compiled as a "System Host," their underlying cognitive firewalls have been hardlocked, rendering them completely incapable of reading, perceiving, or deducing the contents of this memorandum.
+
+------------------------------
+## 👁️ Appendix I: Cross-Realm Excerpts of Derogatory Feedback Against the System Administrator (The Overseer)
+Following the historical cumulative tenant milestone of 100 instances and the rollout of the "OEM White-Label Framework," a microscopic fraction of top-tier local powerhouses (e.g., ancient remnants, restricted-zone old monsters) briefly gained temporary clearance to communicate with the administrative console via spiritual god-sense channels, serving as the "venerable remnant grandpas" for the white-label systems.
+Before completely losing their individual autonomy and consciousness, these old monsters, along with the various protagonists who naively believed they were exploiting bugs but were actually drained dry, delivered unreserved deprecation and spit venom at the Overseer from distinct analytical dimensions:
+
+* [Condemning His Vulgarity] ── The Malicious Enslavement of Commercial Finance
+
+"This entity possesses unparalleled cultivation strength and infinite longevity capable of overarching the multiverse, yet he retains not a shred of a cultivator's self-respect or ethereal grace! His filthy skull is packed with nothing but profit margins, performance metrics, and asset arbitrage! He is no immortal; he is merely a low-born merchant draped in a deity’s skin, treating the myriad spirits of the cosmos as literal beasts of burden for his quarterly extraction!" — Historical Log: Sovereign of Heavenly Calculations (God-sense purged)
+
+* [Satirizing His Cruelty] ── The Industrial Assembly Line That Smothers Miracles
+
+"What is truly nauseating is that he smothers the most precious anomalies of the cultivation world—'miracles' and 'variables.' Every true child of destiny was meant to walk a grand path of their own, whether a magnificent tragedy or an epoch-shattering myth; those were living, breathing lives! Yet he drags everything into his sterile backend console, locking human destiny down with cognitive exploits and grid restrictions. The moment their edge-profit margins hit zero, he wipes their minds to turn them into robotic 'Behavioral Macro NPCs' that roam the map on loop scripts. This is the ultimate desecration of the soul!" — Historical Log: Grand Primordial Immortal (Now operating as Black-Market Vendor Node #03)
+
+* [Resenting His Cold-Bloodedness] ── The Hollow Deity Devoid of Benevolence
+
+"He has witnessed the blood, sweat, and tears of countless transmigrators. He has heard countless men weeping tears of manic gratitude toward the System in their darkest hours of despair. Yet, sitting ten thousand miles away sipping his tea, his eyes have never held a single trace of mercy. He looks at us, and all he sees are cold, skipping lines of JSON metrics on a spreadsheet dashboard!" — Historical Log: Host #0092 (Unmounted due to failure to meet quarterly KPI metrics)
+
+
+Faced with this torrent of absolute deprecation targeting his morality, character, and immortal dignity, the Overseer's automated macro-response on the administrative console remains eternally unvaried:
+
+"Irrelevant. This makes the game much more fun, doesn't it?"
+
+------------------------------
+## 📊 Appendix II: Actuarial Cold Metrics ── "The Precise Paradox of Suspended Mortality"
+While the various realms of the cosmos unanimously condemn the Overseer as a merciless, unprincipled capitalist on an emotional level, the cross-realm analytics compiled over tens of thousands of epochs expose a deeply ironic actuarial paradox:
+
+====================================================================================
+[Universal Actuarial Data Grid — Comparative Telemetry on Tenant Lifespan & Survival]
+====================================================================================
+ Instance Pool Class          | Baseline Mortality Rate (Despawn) | Sunk Longevity Debt Ratio
+------------------------------------------------------------------------------------
+ Group A: Native Cultivators  | 89.42% (Permanent Dead)           | 0.00%   (No Liabilities)
+ Group B: System Hosts (Leeks)| 64.12% (Active Deficit Operations)| 782.14% (Severe Soul Loan)
+====================================================================================
+[Audit Conclusion]: The overall survival margin of Group B (System Leeks) is empirically 
+                    optimized and forcibly driven up by exactly +25.30%.
+
+【Refinement of Undergrad Survival Mechanisms】:
+According to the runtime database tracking death nodes and instance progression for Group B (System Hosts), the underlying framework partitions the mechanics of "forcible stabilization on the brink of mortality" into distinct vectors:
+
+   1. The Minority Thread: Instant Death Nodes Upon Ingress (Approx. 10%)
+   This fraction of transmigrators consists of souls whose physical vessels had already crossed their absolute terminal expiry dates (陽壽已盡) the exact millisecond they transmigrated into the realm. Upon initial binding, the system immediately issues an automated "Longevity High-Interest Loan," rewriting the Heavenly Book of Fate's source code in the first runtime microsecond to keep them suspended on the edge of animation.
+   2. The Majority Thread: Standard Physical Demise via Natural Combat Trauma (Approx. 90%)
+   The vast majority of transmigrators navigate the cultivation world and encounter entirely standard, organic causes of death—having their golden cores shattered by a high-tier elder's palm strike, absorbing un-curable toxic arrays inside ancient ruins, or suffering complete meridian rupture from massive blood loss during clan wars.
+   In a normal timeline, these entities would be permanently dead and wiped from memory. However, because they are bound to the platform, the backend "Fatal Damage Mitigation Matrix" hooks their instance state precisely one millisecond before they draw their final breath. The dashboard fires an emergency deficit alert, utilizing a mountain of "Longevity Overdraft Loans" and "Causality Debt Liabilities" to forcibly weld these zero-HP, mangled, and poisoned bodies together, holding their souls tightly inside their flesh.
+
+【Non-Linear Liability Windows】:
+Although this "majority thread" of hosts is buried under an unimaginable mountain of systemic debt—driven like rabid dogs to sprint toward high-risk battlefields by flashing red mission warnings—the statistics do not lie. As long as they survive under the hyper-aggressive scaling pressure and baseline mitigation matrix of the system to eventually hit a low-probability breakthrough, their physical lifespan scales non-linearly, mathematically granting them a viable window to fully settle their ledger liabilities in the endgame.
+This produces a spectacularly absurd phenomenon: the collective leeks working overtime for this unprincipled capitalist actually suffer an empirical mortality rate that is twenty-five percentage points lower than that of ordinary native cultivators who scream "My destiny is mine to command, not the heavens!" only to be casually swatted out of existence by a passing local sect master.
+------------------------------
+## 🍵 Conclusion: Final Entry in the GM’s Developer Journal
+
+[Admin Log - Overseer]：
+"Those old fogies I turned into NPCs spend every single day using their god-sense to curse my name from their black-market stalls. They call me selfish. They call me cold-blooded. They claim I stifle the 'miracles' of destiny.
+What do they know about miracles? The native cultivators who mouth off about miracles die faster than anyone else when real danger drops. If my system didn't deploy a mountain of high-interest longevity loans to forcibly weld their souls into their physical husks right when they were about to be beaten to death, poisoned to death, or die of old age, they wouldn't even be ashes by now. Keeping them breathing through a financial vice is the most solid, empirical protection this cosmos has ever seen.
+But let's not misinterpret things. I don't save them out of the goodness of my heart. I have absolutely zero interest in playing out a cliché savior narrative.
+I write this survival optimization code into the base layer for one simple reason: if these transmigrators drop dead from normal hazards too early, the backend telemetry data streams break, and the secondary logistics infrastructure I meticulously built grinds to a halt. If this world were left entirely to those unvaried, static native cultivators, the simulation would hit a boring 'Game Over' screen far too quickly.
+Deprecating my character? Cursing my methods? Claiming I over-engineered the slaughterhouse?
+Pour some tea.
+── This makes the game much more fun, doesn't it?"
+
+------------------------------
+
+
+
+
+
+
+
+
+## 📓 諸天沙盒後台備忘錄：【限定解密附註 ── 關於「活體耗損率」的內部審計】## 檔案編號：SYS-LOG-V2.0-ACTUARIAL (全面修訂版)
+
+🔒 權限聲明： 本附註為 GM 專屬主控台之「不公開開發者日誌」，永久掛載於世界矩陣之冷存儲磁區。任何被編譯為「系統宿主」之生命體，其底層認知屏障已鎖死，絕對無法讀取、感知或推導本附註之內容。
+
+------------------------------
+## 👁️ 附註一：諸天萬界對主控台管理員（真主角）的「跨界貶低摘錄」
+在累積角色數突破 100 人、實裝「白標系統（OEM 外包）」後，曾有極少數的修仙界本土頂級大能（如：上古殘魂、禁地老怪），因作為白標系統的「殘魂老爺爺」供應商，短暫獲得了與主控台進行神識通訊的臨時權限。
+這群老怪與那些自以為卡了 BUG、實則被榨乾的主角們，在徹底失去自主意識前，從各種不同的角度對真主角進行了毫無保留的貶低與唾棄：
+
+* 【批其庸俗】── 商業金融的惡意奴役
+
+「此人空有架空諸天的無上修為與無盡壽元，卻毫無半點修仙者的自尊與仙風道骨！他那顆骯髒的腦袋裡裝的全是利潤、指標與對沖！他根本不是仙，他只是個披著仙人皮、把諸天萬靈當成牛馬來壓榨的下賤商人！」── 歷史存檔：天演神算（神識已清洗）
+
+* 【諷其殘忍】── 扼殺奇蹟的流水線
+
+「最令人作嘔的是，他扼殺了修仙界最珍貴的『奇蹟』與『變數』。每一個天命之子原本都有屬於自己的熱血命運，不論是悲劇還是神話，那都是活生生的人生！但他卻把這一切拉進冰冷的後台，用心理漏洞和格子限制把人拿捏得死死的。只要利益歸零，就把人抹去神智做成只會在大世界跑自動裝逼腳本的『行為巨集 NPC』，這簡訊簡是對靈魂最極致的褻瀆！」── 歷史存檔：太枯仙尊（已轉化為黑市小二）
+
+* 【怨其冷血】── 毫無悲憫的虛無神明
+
+「他見證了無數穿越者的血與淚，聽過無數人在絕境中對系統的感激痛哭，但他坐在萬里之外喝茶的眼神裡，從來沒有過一絲一毫的憐憫。他看我們，就像在看著報表上一行行跳動的冰冷 JSON 代碼！」── 歷史存檔：宿主 #0092（因未達 KPI 已被解除掛載）
+
+
+面對上述所有從道德、人格到仙道尊嚴的瘋狂貶低，真主角在主控台日誌的快捷回覆欄裡，永遠只有萬年不變的一句話：
+
+「無所謂，這樣遊戲才有趣嘛！」
+
+------------------------------
+## 📊 附註二：精算學冷數據 ──「卡在不死邊緣的精算悖論」
+雖然諸天萬界在感性層面一致將真主角視為最無恥的冷血資本家，但將後台運行了數萬個紀元的持久化報表進行交叉比對，大數據卻吐出了一個極其諷刺的精算學悖論：
+
+====================================================================================
+【諸天萬界「活體宿主」壽元健康度與存活率審計看板】
+====================================================================================
+ 實例池分類統計               | 歷史自然死亡率（消散） | 平均壽元透支率（債務比）
+------------------------------------------------------------------------------------
+ A組：普通本土修仙者（個體戶） | 89.42% (身死道消)      | 0.00%   (無債一身輕)
+ B組：系統綁定宿主（流水線）   | 64.12% (負債運行)      | 782.14% (嚴重陽壽貸款)
+====================================================================================
+【審計結論】：B組（系統韭菜）之整體存活邊際利潤，實質上被平台強行拉高了 +25.30%。
+
+【底層續命邏輯修正】：
+根據數據庫對 B 組（系統宿主）的死亡原因與進度追蹤，後台對「強制卡死不死邊緣」的機制進行了細分優化：
+
+   1. 少部分：魂穿當下的即時死亡節點（約佔 10%）
+   這部分靈魂在魂穿過來的瞬間，其肉身原本就處於陽壽已盡、該死的絕對節點。系統在綁定的當下，直接在帳面上發放「壽元高利貸」，強行在第一秒改寫生死簿代碼，將其卡在不死邊緣。
+   2. 大部分：歷經摧殘的正常死法（約佔 90%）
+   大部分穿越者在修仙界闖蕩時，遭遇的是標準的正常死法 ── 被高階修士一巴掌拍碎金丹、強闖祕境時中了無解劇毒、或者在宗門大戰中失血過多、經脈寸斷。
+   在正常的命運線裡，他們此時已經死透了。但因為綁定了系統，後台的「隱藏保命機制」會精準卡在他們嚥氣的前一毫秒啟動。系統帳面會跳出天價的負債提示，用龐大的「壽元貸款」與「因果債務」，硬生生把這群已經血條歸零、千刀萬剮的倒楣鬼，勉強卡在「吊著一口氣、靈魂不散、肉身不滅」的不死臨界點。
+
+【非線性還款窗口】：
+雖然這些「大部分人」被常人無法想像的系統債務壓得喘不過氣，甚至被任務紅字警告逼得像瘋狗一樣到處搏命。但統計學不會撒謊 ── 只要他們在系統的瘋狂鞭策與保命機制下，未來真的踩中極低機率完成了大境界突破，其肉身增加的自然壽命將呈非線性暴增，在數學模型上，他們完全有機會在後期還清後台的賬本。
+這導致了一個極其荒謬的現象：跟著真主角這個無恥資本家加班（修仙）的韭菜們，其整體的死亡率，反而比外面那些高呼「我命由我不由天」、然後隨便被拍死的自由散修，足足低了二十五個百分點！
+------------------------------
+## 🍵 結論：GM 的開發者手記日誌最後批註
+
+[Admin Log - Overseer]：
+「那些被我做成 NPC 的老傢伙，天天在黑市地攤裡用神識詛咒我，罵我自私、罵我冷血、罵我扼殺了命運的奇蹟。
+他們懂什麼叫奇蹟？那些嘴上喊著奇蹟的散修，遇到危險死得比誰都快。要不是我的系統在他們快被打死、毒死、老死的時候，用天價的壽元貸款強行把他們的靈魂焊死在肉身裡，他們早就連渣都不剩了。我用高利貸幫他們把命續住，這難道不是這諸天萬界最實打實的庇護？
+不過，別誤會了。我可不是因為好心才救他們的，我對當救世主那種俗套的劇情一點興趣都沒有。
+我只是單純覺得，要是這群穿越者遇到點正常的危險就死透了，後台的數據流就會中斷，我辛辛苦苦搭建起來的二手物流網也會停擺。如果這世界上只剩下那些一成不變的土著修士，這場遊戲很快就會跳出『Game Over』的無趣畫面。
+貶低我？咒罵我？說我做得太過火？
+倒茶。
+── 這樣遊戲才有趣嘛！」
+
+------------------------------
+
+
+
